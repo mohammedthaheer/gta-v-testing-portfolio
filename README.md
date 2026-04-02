@@ -1,2 +1,5 @@
-# gta-v-testing-portfolio
-Game QA testing portfolio focused on identifying, reproducing, and documenting gameplay bugs in Grand Theft Auto V, including system-level exploits and performance issues.
+Game QA Testing Portfolio – GTA V
+
+This repository showcases my hands-on work in game testing and quality assurance using Grand Theft Auto V (Enhanced version).
+
+The focus of this project is to simulate real-world QA practices by identifying, reproducing, and documenting bugs under controlled test conditions.
